@@ -1,8 +1,4 @@
 
-// const client = new HfInference("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");
-// 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
-// AIzaSyDlpezWvfbSFdJScqA1ETq-D1vtZfGXmY0
-// AIzaSyBgiLa7ucMCn8OD3vOrQw7OliiS7h7EvZc
 const summarizeNews = async (newsText) => {
     try {
       const response = await fetch(
